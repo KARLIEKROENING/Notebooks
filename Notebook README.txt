@@ -1,6 +1,6 @@
 ﻿Notebook README
 ________________________________________________________
-By Karlie Kroening, Kelsie Kroening, and Aubri Waswo
+By Karlie Kroening and Kelsie Kroening
 Big Foot High School
 Walworth, WI
 
